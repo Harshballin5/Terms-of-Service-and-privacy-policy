@@ -1,4 +1,14 @@
-# Privacy Policy
+#Terms of Service
+
+##Introduction
+
+By accessing or using our APIs you are agreeing to comply with the Terms and that the Terms control your relationship with us. You are also agreeing that (i) you are 13 years of age and the minimum age of digital consent in your country, (ii) if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and (iii) if you are between 13 (or the minimum age of digital consent, as applicable) and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms. Please read all the Terms carefully.
+
+You may not use the APIs and may not accept the Terms if you are a person barred from using or receiving the APIs under the applicable laws of the United States or other countries including the country in which you are resident or from which you use the APIs.
+
+If you are using the APIs on behalf of an entity, you represent and warrant that you have authority to bind that entity to the Terms and by accepting the Terms, you are doing so on behalf of that entity (and all references to "you" in the Terms refer to that entity).
+
+## Privacy Policy
 
 The use of this application ("Bot") in a server requires the collection of some specific user data ("Data"). The Data collected includes, but is not limited to Discord user ID values. Use of the Bot is considered an agreement to the terms of this Policy. 
 
