@@ -1,9 +1,9 @@
-#Privacy Policy
+# Privacy Policy
 
 This document entails the privacy policy and agreement that you accept when adding any of our bots to a server, or as a member of such a server. This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
 
 
-###Bots, Services, and Servers
+### Bots, Services, and Servers
 The following is a list of bots to which this privacy policy applies.
 ***Damian!!**#6986 (881212769700028497)
 
